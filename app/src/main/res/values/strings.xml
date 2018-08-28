@@ -16,7 +16,7 @@
     <string name="used_google_account">Used Google Account</string>
     <string name="shown_rooms">Visible rooms</string>
     <string name="reservationCancelInfo">You can cancel reservations that were originally made from a room tablet</string>
-    <string name="bookThisRoomOnGoogleCalendar">Book this room on google calendar</string>
+    <string name="bookThisRoomOnGoogleCalendar">Book this room on Google Calendar</string>
     <string name="tapHereForReservations">Tap here to see the list of reservations</string>
     <string name="disconnectedWarning">Disconnected!</string>
     <string name="aboutInfo">Reservator is made by Futurice, a lean service creation company with offices in Helsinki, Tampere, Berlin, Munich, Stockholm and London. More information at: www.futurice.com.\n\nThis application is published under the BSD license. You can find the source code at: http://github.com/futurice/meeting-room-tablet</string>
