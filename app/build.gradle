@@ -23,8 +23,8 @@ android {
         release {
             keyAlias 'futurice'
             // Create your own gradle.properties file and store the passwords there
-            keyPassword RESERVATOR_KEY_PASSWORD
-            storePassword RESERVATOR_KEYSTORE_PASSWORD
+            keyPassword "demo123"
+            storePassword "demo123"
             storeFile file("../keystore/reservator_release.keystore")
         }
 

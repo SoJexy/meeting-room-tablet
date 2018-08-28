@@ -18,8 +18,8 @@
     <string name="used_google_account">使用した Google アカウント</string>
     <string name="shown_rooms">Visible rooms</string>
     <string name="reservationCancelInfo">会議室のタブレットで行われた予約をキャンセルすることができます</string>
-    <string name="touchToReserve">タップして予約</string>
-    <string name="bookNow">今すぐ予約</string>
+    <string name="bookThisRoomOnGoogleCalendar">タップして予約</string>
+    <string name="tapHereForReservations">今すぐ予約</string>
     <string name="disconnectedWarning">切断しました!</string>
     <string name="aboutInfo">Reservator は、ヘルシンキ、タンペレ、ベルリン、ロンドンにオフィスを持つリーンサービス作成会社の Futurice によって作成されました。 さらに詳しい情報は: www.futurice.com.\n\nこのアプリケーションは BSD ライセンスの下に公開されています。 ソースコードはここで参照することができます: http://github.com/futurice/meeting-room-tablet</string>
     <string name="aboutTitle">アプリについて</string>

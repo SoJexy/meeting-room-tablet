@@ -19,8 +19,8 @@
 
             <ImageButton
                 android:id="@+id/cancelButton"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
                 android:layout_alignParentEnd="true"
                 android:layout_alignParentRight="true"
                 android:layout_alignParentTop="true"
@@ -36,6 +36,7 @@
                 android:layout_toStartOf="@id/cancelButton"
                 android:gravity="center"
                 android:text="@string/reservationCancelInfo"
+                android:visibility="gone"
                 android:textColor="#333" />
 
             <LinearLayout
@@ -79,6 +80,7 @@
                     android:background="@drawable/button_background"
                     android:enabled="false"
                     android:focusable="true"
+                    android:visibility="gone"
                     android:text="@string/cancel_reservation"
                     android:textColor="@color/button_color"
                     android:textStyle="bold" />

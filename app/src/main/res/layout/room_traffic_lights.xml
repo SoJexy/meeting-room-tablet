@@ -57,14 +57,14 @@
             android:textIsSelectable="false"
             android:textSize="30sp" />
 
-        <Button
+        <TextView
             android:id="@+id/bookNow"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/reservationInfo"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="30dp"
-            android:text="@string/bookNow"
+            android:text="@string/bookThisRoomOnGoogleCalendar"
             android:textIsSelectable="false"
             android:textSize="40sp"
             android:textStyle="bold" />
@@ -91,8 +91,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:gravity="end"
-        android:text="@string/touchToReserve"
+        android:gravity="center"
+        android:text="@string/tapHereForReservations"
         android:textAllCaps="true"
         android:textColor="@color/TrafficLightText"
         android:textIsSelectable="false"

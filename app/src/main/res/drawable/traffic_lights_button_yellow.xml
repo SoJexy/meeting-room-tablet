@@ -3,7 +3,7 @@
           android:constantSize="true">
     <item
         android:state_pressed="true"
-        android:drawable="@drawable/traffic_lights_button_shape_pressed_yellow"/>
+        android:drawable="@drawable/traffic_lights_button_shape_normal"/>
     <item
         android:drawable="@drawable/traffic_lights_button_shape_normal"/>
 </selector>

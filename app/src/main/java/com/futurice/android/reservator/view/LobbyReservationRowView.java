@@ -106,7 +106,7 @@ public class LobbyReservationRowView extends FrameLayout implements
         inflate(context, R.layout.lobby_reservation_row, this);
         ButterKnife.bind(this);
         cancelButton.setOnClickListener(this);
-        bookNowButton.setOnClickListener(this);
+//        bookNowButton.setOnClickListener(this);
         titleView.setOnClickListener(this);
         reserveButton.setOnClickListener(this);
         calendarButton.setOnClickListener(this);
@@ -167,7 +167,7 @@ public class LobbyReservationRowView extends FrameLayout implements
         if (room.isBookable()) {
             roomStatusView.setTextColor(getResources().getColor(
                     R.color.StatusFreeColor));
-            bookNowButton.setVisibility(View.VISIBLE);
+//            bookNowButton.setVisibility(View.VISIBLE);
         } else {
             roomStatusView.setTextColor(getResources().getColor(
                     R.color.StatusReservedColor));
